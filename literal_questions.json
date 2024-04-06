@@ -1,0 +1,42 @@
+[
+  {
+    "question": "The sage was sad because _____.",
+    "choice1": "The house is burning",
+    "choice2": "The pigtail was hanging down his back",
+    "choice3": "The car got stolen",
+    "choice4": "Her mother died",
+    "answer": 2
+  },
+  {
+    "question": "To change the pigtail’s position, the sage _____.",
+    "choice1": "Twisted and turned in different directions.",
+    "choice2": "Hang his neck",
+    "choice3": "Jump and swim",
+    "choice4": "Run round and round",
+    "answer": 1
+  },
+  {
+    "question": "What is the mood of the poem?",
+    "choice1": "Sad",
+    "choice2": "Happy",
+    "choice3": "Funny",
+    "choice4": "Angry",
+    "answer": 3
+  },
+  {
+    "question": "‘But wondered much and sorrowed more’, What was the sage wondering about?",
+    "choice1": "The sage was wondering about his house",
+    "choice2": "The sage was wondering about his car",
+    "choice3": "The sage was wondering about his pigtail",
+    "choice4": "The sage was wondering about his dress",
+    "answer": 3
+  },
+  {
+    "question": "‘Because it hung behind him’, What did the word ‘it’ refer to?",
+    "choice1": "Sage’s house",
+    "choice2": "Sage’s dress",
+    "choice3": "Sage’s car",
+    "choice4": "Sage’s pigtail",
+    "answer": 4
+  }
+]

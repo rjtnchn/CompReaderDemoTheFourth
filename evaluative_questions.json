@@ -1,0 +1,42 @@
+[
+  {
+    "question": "Who sells expensive board games?",
+    "choice1": "Musicians",
+    "choice2": "Magicians",
+    "choice3": "Vendors",
+    "choice4": "Pedlars",
+    "answer": 4
+  },
+  {
+    "question": "What does the musicians and magicians offer to the buyer?",
+    "choice1": "They offer entertainment to the buyers with their talent and skills.",
+    "choice2": "They offer different kinds of food to the people",
+    "choice3": "They offer massage, giving elderly a discount",
+    "choice4": "All of the above",
+    "answer": 1
+  },
+  {
+    "question": "Do you think the bazaar is only for people who wants to shop for luxuries?",
+    "choice1": "Yes",
+    "choice2": "No, bazaar is for everyone",
+    "choice3": "Maybe",
+    "choice4": "I don't know",
+    "answer": 2
+  },
+  {
+    "question": "What image do you get of bazaar from the poem?",
+    "choice1": "Peaceful, aesthetic, traditional",
+    "choice2": "Lively, Noisy, Busy, Cheerful, and Colorful",
+    "choice3": "Comfy, Cold, Little spaces",
+    "choice4": "I don’t know",
+    "answer": 2
+  },
+  {
+    "question": "Why do you think the poem ends with a mention of people who have died?",
+    "choice1": "To show that dead people can shop there too",
+    "choice2": "To scare other buyers that have no money",
+    "choice3": "To show that there is something in the bazaar for everyone, even the dead",
+    "choice4": "All of the Above",
+    "answer": 3
+  }
+]
