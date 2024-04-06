@@ -1,42 +1,42 @@
 [
   {
-    "question": "Who sells expensive board games?",
-    "choice1": "Musicians",
-    "choice2": "Magicians",
-    "choice3": "Vendors",
-    "choice4": "Pedlars",
-    "answer": 4
-  },
-  {
-    "question": "What does the musicians and magicians offer to the buyer?",
-    "choice1": "They offer entertainment to the buyers with their talent and skills.",
-    "choice2": "They offer different kinds of food to the people",
-    "choice3": "They offer massage, giving elderly a discount",
-    "choice4": "All of the above",
-    "answer": 1
-  },
-  {
-    "question": "Do you think the bazaar is only for people who wants to shop for luxuries?",
-    "choice1": "Yes",
-    "choice2": "No, bazaar is for everyone",
+    "question": "The poet gives harness bells a shake?",
+    "choice1": "True",
+    "choice2": "False",
     "choice3": "Maybe",
-    "choice4": "I don't know",
+    "choice4": "None of the above",
     "answer": 2
   },
   {
-    "question": "What image do you get of bazaar from the poem?",
-    "choice1": "Peaceful, aesthetic, traditional",
-    "choice2": "Lively, Noisy, Busy, Cheerful, and Colorful",
-    "choice3": "Comfy, Cold, Little spaces",
-    "choice4": "I don’t know",
-    "answer": 2
-  },
-  {
-    "question": "Why do you think the poem ends with a mention of people who have died?",
-    "choice1": "To show that dead people can shop there too",
-    "choice2": "To scare other buyers that have no money",
-    "choice3": "To show that there is something in the bazaar for everyone, even the dead",
-    "choice4": "All of the Above",
+    "question": "What do you think is the theme of the poem?",
+    "choice1": "Relation of man and nature",
+    "choice2": "Relation of light and dark",
+    "choice3": "Relation of life and death",
+    "choice4": "Relation of mother and son",
     "answer": 3
+  },
+  {
+    "question": "What does dark symbolize in the poem?",
+    "choice1": "Depressing",
+    "choice2": "Death",
+    "choice3": "Darkness",
+    "choice4": "Life",
+    "answer": 2
+  },
+  {
+    "question": "Why do you think the poet considers the woods as lovely, dark and deep?",
+    "choice1": "Because he finds the woods peaceful, aesthetic",
+    "choice2": "Because he finds the woods ugly",
+    "choice3": "Because he finds the woods beautiful, mysterious, and seductive",
+    "choice4": "I don’t know",
+    "answer": 3
+  },
+  {
+    "question": "What do the last two lines of the poem symbolize?",
+    "choice1": "A short span of human life",
+    "choice2": "A long span of human life",
+    "choice3": "A short span of money",
+    "choice4": "A long span of money",
+    "answer": 1
   }
 ]

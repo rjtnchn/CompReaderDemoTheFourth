@@ -1,42 +1,42 @@
 [
   {
-    "question": "The sage was sad because _____.",
-    "choice1": "The house is burning",
-    "choice2": "The pigtail was hanging down his back",
-    "choice3": "The car got stolen",
-    "choice4": "Her mother died",
-    "answer": 2
-  },
-  {
-    "question": "To change the pigtail’s position, the sage _____.",
-    "choice1": "Twisted and turned in different directions.",
-    "choice2": "Hang his neck",
-    "choice3": "Jump and swim",
-    "choice4": "Run round and round",
+    "question": "What kind of place is our world?",
+    "choice1": "Crowded place",
+    "choice2": "Peaceful place",
+    "choice3": "Noisy place",
+    "choice4": "Dead place",
     "answer": 1
   },
   {
-    "question": "What is the mood of the poem?",
-    "choice1": "Sad",
-    "choice2": "Happy",
-    "choice3": "Funny",
-    "choice4": "Angry",
+    "question": "Why do elephants take up space?",
+    "choice1": "Because they are small",
+    "choice2": "Because they are loud",
+    "choice3": "Because they are huge",
+    "choice4": "Because they are dead",
     "answer": 3
   },
   {
-    "question": "‘But wondered much and sorrowed more’, What was the sage wondering about?",
-    "choice1": "The sage was wondering about his house",
-    "choice2": "The sage was wondering about his car",
-    "choice3": "The sage was wondering about his pigtail",
-    "choice4": "The sage was wondering about his dress",
-    "answer": 3
+    "question": "What is the child willing to do?",
+    "choice1": "Share his room and meals",
+    "choice2": "Share his own house",
+    "choice3": "Share his toys",
+    "choice4": "Share his foods",
+    "answer": 1
   },
   {
-    "question": "‘Because it hung behind him’, What did the word ‘it’ refer to?",
-    "choice1": "Sage’s house",
-    "choice2": "Sage’s dress",
-    "choice3": "Sage’s car",
-    "choice4": "Sage’s pigtail",
-    "answer": 4
+    "question": "What will the child’s father not mind?",
+    "choice1": "Provide room in his car",
+    "choice2": "Provide room in his garage",
+    "choice3": "Provide room for the baby",
+    "choice4": "Provide room in backyard",
+    "answer": 2
+  },
+  {
+    "question": "Why would the father not mind?",
+    "choice1": "Because he don’t care",
+    "choice2": "Because his son will cry",
+    "choice3": "Because he’s kind-hearted",
+    "choice4": "Because he will have money",
+    "answer": 3
   }
 ]
